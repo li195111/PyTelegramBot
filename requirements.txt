@@ -1,0 +1,6 @@
+python-telegram-bot
+python-dotenv
+
+
+# Extra
+pandas-datareader
